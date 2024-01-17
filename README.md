@@ -1,4 +1,6 @@
-![](https://github.com/direnbharwani/direnbharwani.github.io/blob/main/assets/android-chrome-512x512.png)
+<p align="center">
+	<img src="https://github.com/direnbharwani/direnbharwani.github.io/blob/main/assets/apple-touch-icon.png">
+</p>
 
 <h1 align="center">Diren Bharwani's Portfolio</h1>
 

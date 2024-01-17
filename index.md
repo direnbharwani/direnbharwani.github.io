@@ -5,13 +5,13 @@ title: Home
 
 # About
 
-I am currently a final-year student at DigiPen Institute of Technology, studying Computer Science in Real-Time Interactive Simulation.
+I am currently a final-year student at DigiPen Institute of Technology, studying *Computer Science in Real-Time Interactive Simulation*.
 
 As a software engineer, my passion is in building experiences that makes life easier, and I enjoy using my technical knowledge with a keen eye for details to target pain points in everyday interactions.
 
 I have a keen interest in Web3 development, and focus more on backend development, low-level optimisation and system architecture. Throughout my past projects, I have specialised in mathematics and physics simulations for fully featured custom built game engines.
 
-When I'm not in front of a computer screen, I'm probably practicing dance, taking a swim or playing tennis, or cooking and making cocktails.
+**When I'm not in front of a computer screen**, I'm probably practicing dance, taking a swim or playing tennis, or cooking and making cocktails.
 
 I also occassionally write on my blog (and on Medium) to share my knowledge with the world.
 

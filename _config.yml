@@ -2,8 +2,8 @@
 
 title: Diren Bharwani
 description: Diren Bharwani's Portfolio & Blog
-taglong: Diren Bharwani Portfolio and Blog
-tagshort: Diren Bharwani Portfolio
+taglong: Software Engineer
+# tagshort: Diren Bharwani Portfolio
 url: https://direnbharwani.github.io
 permalink: pretty
 repo: https://github.com/direnbharwani/direnbharwani.github.io
@@ -13,7 +13,7 @@ repo: https://github.com/direnbharwani/direnbharwani.github.io
 author:
   name: Diren Bharwani
   email: diren.bharwani@gmail.com.com
-photo: /assets/jpg/photo.jpg
+# photo: /assets/jpg/photo.jpg
 
 # social media links
 

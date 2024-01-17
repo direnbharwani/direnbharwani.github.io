@@ -6,5 +6,7 @@
 
 <p align="center">
     First iteration of my portfolio & blog. <br>
-    This uses the [cvless](https://github.com/piazzai/cvless) Jekyll template.
+    This uses the <a href="https://github.com/piazzai/cvless">cvless</a> Jekyll template.
 </p>
+
+

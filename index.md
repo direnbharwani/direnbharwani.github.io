@@ -3,17 +3,32 @@ layout: home
 title: Home
 ---
 
-# About
+<h1 align="center">
+    About Me
+</h1>
 
-I am currently a final-year student at DigiPen Institute of Technology, studying *Computer Science in Real-Time Interactive Simulation*.
+<p align="center">
+    I am currently a final-year student at DigiPen Institute of Technology, studying <i>Computer Science in Real-Time Interactive Simulation</i>.
+</p>
 
-As a software engineer, my passion is in building experiences that makes life easier, and I enjoy using my technical knowledge with a keen eye for details to target pain points in everyday interactions.
+<p align="center">
+    As a software engineer, my passion is in <b>building experiences that makes life easier</b>, and I enjoy using my technical knowledge with a keen eye for details to target pain points in everyday interactions.
+</p>
 
-I have a keen interest in Web3 development, and focus more on backend development, low-level optimisation and system architecture. Throughout my past projects, I have specialised in mathematics and physics simulations for fully featured custom built game engines.
+<p align="center"> 
+    I have a keen interest in Web3 development, and focus more on backend development, low-level optimisation and system architecture.<br>
+    Throughout my past projects, I have specialised in mathematics and physics simulations for fully featured custom built game engines.
+</p>
 
-**When I'm not in front of a computer screen**, I'm probably practicing dance, taking a swim or playing tennis, or cooking and making cocktails.
+<p align="center"> 
+    <b>When I'm not in front of a computer screen</b>, I'm probably practicing dance, out on a swim or playing tennis, or cooking and making cocktails.
+</p>
 
-I also occassionally write on my blog (and on Medium) to share my knowledge with the world.
+<p align="center"> 
+    I occassionally write on my blog to share my knowledge with the world.
+</p>
+
+
 
 <!-- This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found. -->
 

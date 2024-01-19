@@ -100,3 +100,9 @@ a.reversefootnote {
     border: none;
   }
 }
+
+.image-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

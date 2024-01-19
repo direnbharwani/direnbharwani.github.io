@@ -104,5 +104,6 @@ a.reversefootnote {
 .image-row {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
